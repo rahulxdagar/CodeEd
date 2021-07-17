@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CodeEd/static/css/main.5b60b98c.chunk.css",
+    "main.js": "/CodeEd/static/js/main.045f38bb.chunk.js",
+    "main.js.map": "/CodeEd/static/js/main.045f38bb.chunk.js.map",
+    "runtime-main.js": "/CodeEd/static/js/runtime-main.8cdb86cd.js",
+    "runtime-main.js.map": "/CodeEd/static/js/runtime-main.8cdb86cd.js.map",
+    "static/css/2.8ab860fe.chunk.css": "/CodeEd/static/css/2.8ab860fe.chunk.css",
+    "static/js/2.0007d213.chunk.js": "/CodeEd/static/js/2.0007d213.chunk.js",
+    "static/js/2.0007d213.chunk.js.map": "/CodeEd/static/js/2.0007d213.chunk.js.map",
+    "index.html": "/CodeEd/index.html",
+    "precache-manifest.7bc6619996d5cba6db45f5ae60549348.js": "/CodeEd/precache-manifest.7bc6619996d5cba6db45f5ae60549348.js",
+    "service-worker.js": "/CodeEd/service-worker.js",
+    "static/css/2.8ab860fe.chunk.css.map": "/CodeEd/static/css/2.8ab860fe.chunk.css.map",
+    "static/css/main.5b60b98c.chunk.css.map": "/CodeEd/static/css/main.5b60b98c.chunk.css.map",
+    "static/js/2.0007d213.chunk.js.LICENSE.txt": "/CodeEd/static/js/2.0007d213.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cdb86cd.js",
+    "static/css/2.8ab860fe.chunk.css",
+    "static/js/2.0007d213.chunk.js",
+    "static/css/main.5b60b98c.chunk.css",
+    "static/js/main.045f38bb.chunk.js"
+  ]
+}
